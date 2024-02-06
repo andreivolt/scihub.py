@@ -90,3 +90,5 @@ ENV/
 # IDE 
 .vscode/
 .idea/
+
+/result
